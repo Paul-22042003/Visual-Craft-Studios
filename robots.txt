@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://visual-craft-studio.leafyridge.chatgpt.site/sitemap.xml
